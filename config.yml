@@ -1,0 +1,8 @@
+site_title: "Aetheric Press"
+site_subtitle: "Deadpan Canadian chaos with receipts."
+base_url: "https://aetheric-forge.github.io/aetheric-press"
+author: "Valkyr"
+feed:
+  title: "Aetheric Press RSS"
+  description: "22-Minutes-style satire on current headlines, with Baatorian spice."
+  language: "en-CA"
