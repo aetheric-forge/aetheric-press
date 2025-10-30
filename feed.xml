@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Aetheric Press RSS</title>
+<link>https://aetheric-forge.github.io/aetheric-press</link>
+<description>22-Minutes-style satire on current headlines, with Baatorian spice.</description>
+<language>en-CA</language>
+<lastBuildDate>Thu, 30 Oct 2025 15:06:00 +0000</lastBuildDate>
+<item>
+<title>Massive Push to Jamaican Reconstruction Efforts as American Celebrities Come Together</title>
+<link>https://aetheric-forge.github.io/aetheric-press/rebuild-jamaica-2025-10-29.html</link>
+<guid isPermaLink='false'>9a0361700f7fd73431d011387c8d205ec6cdebf2</guid>
+<pubDate>Wed, 29 Oct 2025 07:03:38 -0600</pubDate>
+<description>A stream of donations and gifts from American celebrities bring hope to the devastion brought by Hurricane Melissa to Jamaica</description>
+<category>hurricane_melissa</category>
+<category>rebuild_jamaica</category>
+</item>
+<item>
+<title>LA's Divine Narrative Collapses into Divine Comedy</title>
+<link>https://aetheric-forge.github.io/aetheric-press/rebuild-jamaica-2025-10-29.html</link>
+<guid isPermaLink='false'>9a0361700f7fd73431d011387c8d205ec6cdebf2</guid>
+<pubDate>Wed, 29 Oct 2025 06:45:28 -0600</pubDate>
+<description>LA's growing narrative adds star power to Ohtani's greatness, but it hasn't been working out</description>
+<category>blue_jays</category>
+<category>world_series</category>
+</item>
+<item>
+<title>Breaking: Mariner's Sweep Averted by Blue Jays</title>
+<link>https://aetheric-forge.github.io/aetheric-press/no-mariners-sweep-2025-10-15.html</link>
+<guid isPermaLink='false'>a705ea3ed5a7c0618ef4ac50b3bd76b27dabe1e7</guid>
+<pubDate>Wed, 15 Oct 2025 05:41:30 -0600</pubDate>
+<description>Mariners drop game 4 to Blue Jays in wild game</description>
+<category>baseball</category>
+<category>blue_jays</category>
+</item>
+</channel></rss>
