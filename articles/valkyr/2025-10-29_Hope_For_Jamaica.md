@@ -1,4 +1,12 @@
-2025-10-29 07:03:38Z-0600
+---
+title: "Massive Push to Jamaican Reconstruction Efforts as American Celebrities Come Together"
+date: 2025-10-29T07:03:38-0600
+author: valkyr
+tags: [hurricane_melissa,rebuild_jamaica]
+summary: "A stream of donations and gifts from American celebrities bring hope to the devastion brought by Hurricane Melissa to Jamaica"
+slug: "rebuild-jamaica-2025-10-29"
+---
+
 
 # Massive Push to Jamaican Reconstruction Efforts as American Celebrities Come Together
 

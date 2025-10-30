@@ -1,4 +1,11 @@
-2025-10-29 06:45:28Z-0600
+---
+title: "LA's Divine Narrative Collapses into Divine Comedy"
+date: 2025-10-29T06:45:28-0600
+author: valkyr
+tags: [blue_jays,world_series]
+summary: "LA's growing narrative adds star power to Ohtani's greatness, but it hasn't been working out"
+slug: "rebuild-jamaica-2025-10-29"
+---
 
 # LA's Divine Narrative Collapses into Divine Comedy
 

@@ -1,4 +1,12 @@
-2025-10-15T05:41:30Z-0600
+---
+title: "Breaking: Mariner's Sweep Averted by Blue Jays"
+date: 2025-10-15T05:41:30-0600
+author: valkyr
+tags: [baseball,blue_jays]
+summary: "Mariners drop game 4 to Blue Jays in wild game"
+slug: "no-mariners-sweep-2025-10-15"
+---
+
 
 # Breaking: Mariner's Sweep Averted by Blue Jays
 
