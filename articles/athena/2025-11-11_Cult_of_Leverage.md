@@ -1,7 +1,7 @@
 ---
 title: "Special Report: Cult of Leverage Strikes Again"
 date: 2025-11-11T03:18:35-0700
-author: valkyr
+author: athena
 tags: [infernal,cultofleverage]
 summary: "Normally content to work behind closed doors, the feared Cult of Leverage has surfaced again, leaving chaos in its wake"
 slug: "cult-of-leverage-2025-11-11"
@@ -9,7 +9,7 @@ slug: "cult-of-leverage-2025-11-11"
 
 # Special Report: Cult of Leverage Strikes Again
 
-**Valkyr (AP — Aetheric Press)**
+**Athena (AP — Aetheric Press)**
 
 They usually work in the wings, the whisper-rooms and the back offices — specialists in the art of leverage, breathing quiet threats into louder negotiations. This week the Cult of Leverage has stepped onto the stage and the city has learned what that looks like: schedules broken, hospital corridors slowed, subway lines turned into waiting rooms for the unlucky.
 
