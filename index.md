@@ -4,6 +4,7 @@ _Deadpan Canadian chaos with receipts._
 
 ## Latest
 
+- **2025-12-01** — [Ontario Corporations Demand Right to Misbehave Unrecorded; Journalists Laugh Until Their Lungs Collapse](https://aetheric-forge.github.io/aetheric-press/misbehave-unrecorded-2025-12-01.html) — Corporations increasingly embarassed by customer service agent behavior seek to ban public recording
 - **2025-11-11** — [Special Report: Cult of Leverage Strikes Again](https://aetheric-forge.github.io/aetheric-press/cult-of-leverage-2025-11-11.html) — Normally content to work behind closed doors, the feared Cult of Leverage has surfaced again, leaving chaos in its wake
 - **2025-11-10** — [Even Vote in Montreal Council Race Goes to Tiebreak](https://aetheric-forge.github.io/aetheric-press/tie-vote-montreal-2025-11-10.html) — Canadians to see rare bureaucratic process as historical tie vote in Montreal requires tiebreak.
 - **2025-11-07** — [Budget Bedlam as Bets Abound](https://aetheric-forge.github.io/aetheric-press/budget-bedlam-2025-11-07.html) — Canadian political theatre heating up as blue and red make big bets, with parliamentary majority at stake.
